@@ -744,9 +744,9 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>License</value>
   </data>
   <data name="TextPrivacyPolicy" xml:space="preserve">
-    <value>Privacy Policy</value>
+    <value>Politique de confidentialité</value>
   </data>
   <data name="TitleAudioDesktopOnly" xml:space="preserve">
-    <value>Play audio only when desktop is focused</value>
+    <value>Lire l'audio uniquement lorsque le bureau est ouvert</value>
   </data>    
 </root>
